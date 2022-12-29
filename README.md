@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jheelam12221424
-- 👀 I’m interested in 
+- 👀 I’m interested in coding and problem solving
 - 🌱 I’m currently persuing B.Tech CSE from Lovely Professional University
 
 <!---
